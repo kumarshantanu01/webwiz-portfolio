@@ -53,7 +53,15 @@ const teamData = [
         "github":"https://github.com/gouravmohanty7070",
         "linkedin":"https://www.linkedin.com/in/gourav-mohanty-78006a201",
         "instagram":"https://www.instagram.com/_gourav.mohanty/"  
-    }
+    },
+    {
+        "name":"Debashis Nayak",
+        "image":require('../assets/data/debashis_nayak').default,
+        "tagline":"Secretary",
+        "github":"https://github.com/deb2000-sudo",
+        "linkedin":"https://www.linkedin.com/in/debashis-nayak-6b013b198/",
+        "instagram":"https://www.instagram.com/2000no_talent_guy/"  
+}
 
 ]
 
