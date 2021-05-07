@@ -61,7 +61,15 @@ const teamData = [
         "github":"https://github.com/deb2000-sudo",
         "linkedin":"https://www.linkedin.com/in/debashis-nayak-6b013b198/",
         "instagram":"https://www.instagram.com/2000no_talent_guy/"  
-}
+},
+  {
+        "name":"Kumar Shantanu",
+        "image":require('../assets/data/shantanu.jpg').default,
+        "tagline":"Design Team",
+        "github":"https://github.com/kumarshantanu01",
+        "linkedin":"https://www.linkedin.com/in/kumar-shantanu-8447a1205/",
+        "instagram":"https://www.instagram.com/kumar_shantanu_01/"  
+    }
 
 ]
 
